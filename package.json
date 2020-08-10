@@ -1,0 +1,19 @@
+{
+  "name": "restore-mail",
+  "version": "0.1.0",
+  "description": "Restore mails from backup and add them to Kerio mailserver to the user's mailbox.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": "git@github.com:dashk1n/restore-mail-js.git",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "fs-extra": "^9.0.1"
+  },
+  "devDependencies": {
+    "standard": "^14.3.4"
+  }
+}
